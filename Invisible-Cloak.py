@@ -16,7 +16,7 @@ count = 0
 
 background = 0
 
-# Capturing Static Background Frame
+# Capturing Static Background Frame.
 
 for i in range(60):
 
